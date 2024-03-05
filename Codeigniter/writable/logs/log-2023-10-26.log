@@ -1,0 +1,1112 @@
+CRITICAL - 2023-10-26 00:00:28 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:01:36 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:02:44 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:05:01 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:06:09 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:07:18 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:08:26 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:09:35 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:10:43 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:11:51 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:14:08 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:15:16 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:16:24 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:17:32 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:18:41 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:19:49 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:20:58 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:23:15 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:24:23 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:25:32 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:26:39 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:27:48 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:28:56 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:30:06 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:31:13 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:33:30 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:34:38 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 00:35:47 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 03:20:37 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 05:48:58 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 05:52:44 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:22 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:23 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:24 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:24 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:25 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:25 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:26 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:27 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:27 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:27 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:28 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:26:29 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:00:08 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:00:21 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:00:29 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:00:51 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:00:53 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:01:51 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:01:54 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:01:55 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:01:57 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:01:58 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:02:45 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:02:51 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:03:01 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:03:04 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:03:07 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:03:27 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:03:29 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:03:32 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:03:34 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:03:44 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:34:48 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:34:58 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:35:11 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:35:14 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:35:20 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:36:34 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:36:50 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:37:00 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:37:05 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 08:37:12 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:12:10 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:14:49 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:19:00 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:21:38 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:24:18 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:29:35 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:33:22 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:38:38 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:43:56 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:49:13 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:52:45 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 09:59:49 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:05:06 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:10:24 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:15:42 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:20:59 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:26:17 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:31:34 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:36:51 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:38:58 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:42:10 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:47:28 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:52:46 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 10:58:05 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:03:21 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:08:38 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:13:56 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:19:13 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:27:07 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:28:12 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:35:06 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:40:23 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:45:42 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:50:59 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 11:56:17 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:01:35 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:04:40 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:06:12 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:08:34 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:10:48 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:13:16 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:15:25 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:17:33 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:17:44 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:20:02 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:22:21 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:24:38 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:26:57 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:29:16 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:31:35 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 12:33:53 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 13:31:49 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 14:18:20 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 14:18:51 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 14:20:20 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 14:39:20 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 14:45:23 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 14:56:02 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 15:22:29 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 17:00:13 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 21:12:04 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 21:12:58 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 21:13:00 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 21:31:53 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 22:23:27 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 23:13:46 --> The current node list is empty.
+in FCPATH/vendor/symfony/dom-crawler/Crawler.php on line 569.
+ 1 APPPATH/Models/WikiModel.php(23): Symfony\Component\DomCrawler\Crawler->text()
+ 2 APPPATH/Controllers/Wiki.php(17): App\Models\WikiModel->scrapeData()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

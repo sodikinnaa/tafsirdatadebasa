@@ -1,0 +1,26 @@
+CRITICAL - 2024-02-29 02:52:02 --> Could not resolve host: de.wikipedia.org for "https://de.wikipedia.org/wiki/Wynn_Stewart".
+in FCPATH/Codeigniter/vendor/symfony/http-client/Chunk/ErrorChunk.php on line 56.
+ 1 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(144): Symfony\Component\HttpClient\Chunk\ErrorChunk->isFirst()
+ 2 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(41): Symfony\Component\HttpClient\Response\CurlResponse::initialize()
+ 3 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CurlResponse.php(230): Symfony\Component\HttpClient\Response\CurlResponse->doGetContent()
+ 4 FCPATH/Codeigniter/vendor/symfony/browser-kit/HttpBrowser.php(57): Symfony\Component\HttpClient\Response\CurlResponse->getContent()
+ 5 FCPATH/Codeigniter/vendor/symfony/browser-kit/AbstractBrowser.php(403): Symfony\Component\BrowserKit\HttpBrowser->doRequest()
+ 6 APPPATH/Models/WikiModel.php(16): Symfony\Component\BrowserKit\AbstractBrowser->request()
+ 7 APPPATH/Controllers/Wiki.php(36): App\Models\WikiModel->scrapeData()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-29 21:22:36 --> Could not resolve host: de.wikipedia.org for "https://de.wikipedia.org/wiki/Cellules_Communistes_Combattantes".
+in FCPATH/Codeigniter/vendor/symfony/http-client/Chunk/ErrorChunk.php on line 56.
+ 1 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(144): Symfony\Component\HttpClient\Chunk\ErrorChunk->isFirst()
+ 2 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(41): Symfony\Component\HttpClient\Response\CurlResponse::initialize()
+ 3 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CurlResponse.php(230): Symfony\Component\HttpClient\Response\CurlResponse->doGetContent()
+ 4 FCPATH/Codeigniter/vendor/symfony/browser-kit/HttpBrowser.php(57): Symfony\Component\HttpClient\Response\CurlResponse->getContent()
+ 5 FCPATH/Codeigniter/vendor/symfony/browser-kit/AbstractBrowser.php(403): Symfony\Component\BrowserKit\HttpBrowser->doRequest()
+ 6 APPPATH/Models/WikiModel.php(16): Symfony\Component\BrowserKit\AbstractBrowser->request()
+ 7 APPPATH/Controllers/Wiki.php(36): App\Models\WikiModel->scrapeData()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

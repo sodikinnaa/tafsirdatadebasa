@@ -1,0 +1,66 @@
+CRITICAL - 2024-02-03 05:01:18 --> preg_match(): Compilation failed: missing closing parenthesis at offset 3
+in SYSTEMPATH/Router/Router.php on line 422.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Router/Router.php(422): preg_match()
+ 3 SYSTEMPATH/Router/Router.php(184): CodeIgniter\Router\Router->checkRoutes()
+ 4 SYSTEMPATH/CodeIgniter.php(800): CodeIgniter\Router\Router->handle()
+ 5 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-03 05:01:24 --> preg_match(): Compilation failed: missing closing parenthesis at offset 3
+in SYSTEMPATH/Router/Router.php on line 422.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Router/Router.php(422): preg_match()
+ 3 SYSTEMPATH/Router/Router.php(184): CodeIgniter\Router\Router->checkRoutes()
+ 4 SYSTEMPATH/CodeIgniter.php(800): CodeIgniter\Router\Router->handle()
+ 5 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-03 05:29:18 --> preg_match(): Compilation failed: missing closing parenthesis at offset 3
+in SYSTEMPATH/Router/Router.php on line 422.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Router/Router.php(422): preg_match()
+ 3 SYSTEMPATH/Router/Router.php(184): CodeIgniter\Router\Router->checkRoutes()
+ 4 SYSTEMPATH/CodeIgniter.php(800): CodeIgniter\Router\Router->handle()
+ 5 SYSTEMPATH/CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-03 12:26:01 --> Could not resolve host: de.wikipedia.org for "https://de.wikipedia.org/wiki/Benutzer_Diskussion:Hmaag".
+in FCPATH/Codeigniter/vendor/symfony/http-client/Chunk/ErrorChunk.php on line 56.
+ 1 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(144): Symfony\Component\HttpClient\Chunk\ErrorChunk->isFirst()
+ 2 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(41): Symfony\Component\HttpClient\Response\CurlResponse::initialize()
+ 3 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CurlResponse.php(230): Symfony\Component\HttpClient\Response\CurlResponse->doGetContent()
+ 4 FCPATH/Codeigniter/vendor/symfony/browser-kit/HttpBrowser.php(57): Symfony\Component\HttpClient\Response\CurlResponse->getContent()
+ 5 FCPATH/Codeigniter/vendor/symfony/browser-kit/AbstractBrowser.php(403): Symfony\Component\BrowserKit\HttpBrowser->doRequest()
+ 6 APPPATH/Models/WikiModel.php(16): Symfony\Component\BrowserKit\AbstractBrowser->request()
+ 7 APPPATH/Controllers/Wiki.php(36): App\Models\WikiModel->scrapeData()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-03 12:44:23 --> Could not resolve host: de.wikipedia.org for "https://de.wikipedia.org/wiki/Kategorie:Amt_(Religion)".
+in FCPATH/Codeigniter/vendor/symfony/http-client/Chunk/ErrorChunk.php on line 56.
+ 1 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(144): Symfony\Component\HttpClient\Chunk\ErrorChunk->isFirst()
+ 2 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(41): Symfony\Component\HttpClient\Response\CurlResponse::initialize()
+ 3 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CurlResponse.php(230): Symfony\Component\HttpClient\Response\CurlResponse->doGetContent()
+ 4 FCPATH/Codeigniter/vendor/symfony/browser-kit/HttpBrowser.php(57): Symfony\Component\HttpClient\Response\CurlResponse->getContent()
+ 5 FCPATH/Codeigniter/vendor/symfony/browser-kit/AbstractBrowser.php(403): Symfony\Component\BrowserKit\HttpBrowser->doRequest()
+ 6 APPPATH/Models/WikiModel.php(16): Symfony\Component\BrowserKit\AbstractBrowser->request()
+ 7 APPPATH/Controllers/Wiki.php(36): App\Models\WikiModel->scrapeData()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-03 18:04:43 --> Could not resolve host: de.wikipedia.org for "https://de.wikipedia.org/wiki/Schlanker_Schnepfenfisch".
+in FCPATH/Codeigniter/vendor/symfony/http-client/Chunk/ErrorChunk.php on line 56.
+ 1 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(144): Symfony\Component\HttpClient\Chunk\ErrorChunk->isFirst()
+ 2 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CommonResponseTrait.php(41): Symfony\Component\HttpClient\Response\CurlResponse::initialize()
+ 3 FCPATH/Codeigniter/vendor/symfony/http-client/Response/CurlResponse.php(230): Symfony\Component\HttpClient\Response\CurlResponse->doGetContent()
+ 4 FCPATH/Codeigniter/vendor/symfony/browser-kit/HttpBrowser.php(57): Symfony\Component\HttpClient\Response\CurlResponse->getContent()
+ 5 FCPATH/Codeigniter/vendor/symfony/browser-kit/AbstractBrowser.php(403): Symfony\Component\BrowserKit\HttpBrowser->doRequest()
+ 6 APPPATH/Models/WikiModel.php(16): Symfony\Component\BrowserKit\AbstractBrowser->request()
+ 7 APPPATH/Controllers/Wiki.php(36): App\Models\WikiModel->scrapeData()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Wiki->view()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
